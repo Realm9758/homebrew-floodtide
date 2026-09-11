@@ -1,8 +1,8 @@
 cask "floodtide" do
-  version "1.1.0"
-  sha256 "b0691c8c5f3b0afe9a48f38cd8ee68c264d8cce6d417e3c27db7843c50dd5f6b"
+  version "1.1.5"
+  sha256 "3396b197051e427f2d115aca2c1cff22e8f039ffbd83cb78455adc75e28c5f84"
 
-  url "https://bhopstudio.com/floodtide/downloads/Floodtide-#{version}.dmg"
+  url "https://pajb0isilbwjuxjt.public.blob.vercel-storage.com/floodtide/releases/#{version}/Floodtide-#{version}.dmg"
   name "Floodtide"
   desc "Find and install updates for installed applications"
   homepage "https://bhopstudio.com/floodtide"
