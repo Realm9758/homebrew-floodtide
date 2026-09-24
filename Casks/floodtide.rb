@@ -1,6 +1,6 @@
 cask "floodtide" do
-  version "1.3.6"
-  sha256 "e01684071cb1b1eec3d73a0987ccacd4f4f017d4eacc8ae9dfcd54bf1e6feca8"
+  version "1.3.7"
+  sha256 "46b5daa31cd270b34fb31e5c0f1e28aecc23e90804625ba29608c89e3bcc9477"
 
   url "https://pajb0isilbwjuxjt.public.blob.vercel-storage.com/floodtide/releases/#{version}/Floodtide-#{version}.dmg"
   name "Floodtide"
