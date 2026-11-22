@@ -1,6 +1,6 @@
 cask "floodtide" do
-  version "1.6.2"
-  sha256 "1a4b4e8435e63ea319b81ebb2d23462a72e0db6f3cbf598f5ca1f26fc76ee208"
+  version "1.6.3"
+  sha256 "3604b63aebf0657432dba1f632ce0454ebae289d02ffdd4cb0e392fab0c1a9fd"
 
   url "https://bhopstudio.com/floodtide/downloads/Floodtide-#{version}.dmg"
   name "Floodtide"
